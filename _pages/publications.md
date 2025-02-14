@@ -11,15 +11,15 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 **B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**  
 Weihao Zeng\*, Yuzhen Huang\*, Lulu Zhao, Yijun Wang, Zifei Shan, *<ins>Junxian He</ins>*  
-Preprint 2024. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR)
-
-**Diving into Self-Evolving Training for Multimodal Reasoning**  
-Wei Liu\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, *<ins>Junxian He</ins>*  
-Preprint 2024. [[arxiv]](https://arxiv.org/abs/2412.17451) [[github]](https://github.com/hkust-nlp/mstar)
+ICLR 2025. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR)
 
 **Non-myopic Generation of Language Models for Reasoning and Planning**  
 Chang Ma, Haiteng Zhao, Junlei Zhang, *<ins>Junxian He</ins>*, Lingpeng Kong  
-Preprint 2024. [[arxiv]](https://arxiv.org/abs/2410.17195)
+ICLR 2025. [[arxiv]](https://arxiv.org/abs/2410.17195)
+
+<!-- **Diving into Self-Evolving Training for Multimodal Reasoning**  
+Wei Liu\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, *<ins>Junxian He</ins>*  
+Preprint 2024. [[arxiv]](https://arxiv.org/abs/2412.17451) [[github]](https://github.com/hkust-nlp/mstar) -->
 
 **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
 Chang Ma\*, Junlei Zhang\*, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, *<ins>Junxian He</ins>*  

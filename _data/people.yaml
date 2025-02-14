@@ -33,6 +33,11 @@
       
 - group : Research Assistants/Visitors
   people :
+    - name : Yuxuan Cao
+      url : "https://caoyxuan.github.io"
+      pic: "/images/members/yuxuan_cao.jpg"
+      description: Master @ ZJU
+      bio : 
     - name : Shiqi Chen
       url : "https://shiqichen17.github.io"
       pic: "/images/members/shiqi_chen.jpg"

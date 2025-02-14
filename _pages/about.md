@@ -41,7 +41,8 @@ I am generally interested in machine learning and natural language processing. C
 
 # Teaching
 [2024 Spring] Machine Learning [COMP 5212]  
-[2024 Fall] [Machine Learning [COMP 5212]](/teaching/comp5212f24)
+[2024 Fall] Machine Learning [COMP 5212]
+[2025 Spring] Machine Learning [COMP 4211]
 
 # Service
 Area Chair: ICLR, EMNLP, ACL, ARR    
@@ -49,6 +50,6 @@ Reviewer: ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, ARR, TMLR
 
 # Awards
 Baidu PhD Fellowship, class of 2020 (10 recipients worldwide)  
-National Scholarship in China (2014/2015/2016)
+<!-- National Scholarship in China (2014/2015/2016) -->
 <!-- Outstanding Undergraduate Thesis in SJTU (top 1%)   -->
 

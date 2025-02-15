@@ -41,7 +41,7 @@ I am generally interested in machine learning and natural language processing. C
 
 # Teaching
 [2024 Spring] Machine Learning [COMP 5212]  
-[2024 Fall] Machine Learning [COMP 5212]
+[2024 Fall] Machine Learning [COMP 5212]  
 [2025 Spring] Machine Learning [COMP 4211]
 
 # Service

@@ -63,6 +63,11 @@
       pic: "/images/members/yiyun_deng.jpg"
       description: Undergrad @ Tsinghua
       bio: 
+    - name: Yujia Fu
+      url: ""
+      pic: "/images/members/yujia_fu.jpg"
+      description: Undergrad @ BUPT
+      bio: 
     - name: Chang Ma
       url: "https://chang-github-00.github.io/-changma/"
       pic: "/images/members/chang_ma.jpg"

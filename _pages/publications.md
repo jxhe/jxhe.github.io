@@ -14,7 +14,7 @@ Junlong Li, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, *<ins>Junxian He</ins>*
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2502.07316) [[github]](https://github.com/hkust-nlp/CodeIO)  
 <span style="color:red"><i>Spotlight</i></span>
 
-**Diving into Self-Evolve Training for Multimodal Reasoning**  
+**Diving into Self-Evolving Training for Multimodal Reasoning**  
 Wei Liu\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, *<ins>Junxian He</ins>*  
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2412.17451)  [[github]](https://github.com/hkust-nlp/mstar)
 

@@ -23,7 +23,7 @@ Shiqi Chen, Jinghan Zhang, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling
 ICML 2025.  
 
 **Predictive Data Selection: The Data That Predicts Is the Data That Teaches**  
-KaShun Shum\*, Yuzhen Huang\*, Hongjian Zou, dingqi, Yixuan Liao, Xiaoxin Chen, Qian Liu, *<ins>Junxian He</ins>*  
+Kashun Shum\*, Yuzhen Huang\*, Hongjian Zou, Qi Ding, Yixuan Liao, Xiaoxin Chen, Qian Liu, *<ins>Junxian He</ins>*    
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2503.00808)  [[github]](https://github.com/hkust-nlp/PreSelect)
 
 **Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas**  

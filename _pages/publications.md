@@ -9,6 +9,27 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**CodeIO: Condensing Reasoning Patterns via Code Input-Output Prediction**  
+Junlong Li, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, *<ins>Junxian He</ins>*  
+ICML 2025. [[arxiv]](https://arxiv.org/abs/2502.07316) [[github]](https://github.com/hkust-nlp/CodeIO)  
+<span style="color:red"><i>Spotlight</i></span>
+
+**Diving into Self-Evolve Training for Multimodal Reasoning**  
+Wei Liu\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, *<ins>Junxian He</ins>*  
+ICML 2025. [[arxiv]](https://arxiv.org/abs/2412.17451)  [[github]](https://github.com/hkust-nlp/mstar)
+
+**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**  
+Shiqi Chen, Jinghan Zhang, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling Li, *<ins>Junxian He</ins>*  
+ICML 2025.  
+
+**Predictive Data Selection: The Data That Predicts Is the Data That Teaches**  
+KaShun SHUM\*, Yuzhen Huang\*, Hongjian Zou, dingqi, YiXuan Liao, Xiaoxin Chen, Qian Liu, *<ins>Junxian He</ins>*  
+ICML 2025. [[arxiv]](https://arxiv.org/abs/2503.00808)  [[github]](https://github.com/hkust-nlp/PreSelect)
+
+**Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas**  
+Shiqi Chen, Tongyao Zhu, Ruochen Zhou, Jinghan Zhang, Siyang Gao, Juan Carlos Niebles, Mor Geva, *<ins>Junxian He</ins>*, Jiajun Wu, Manling Li  
+ICML 2025. [[arxiv]](https://arxiv.org/abs/2503.01773) [[github]](https://github.com/shiqichen17/AdaptVis)
+
 **B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**  
 Weihao Zeng\*, Yuzhen Huang\*, Lulu Zhao, Yijun Wang, Zifei Shan, *<ins>Junxian He</ins>*  
 ICLR 2025. [[arxiv]](https://arxiv.org/abs/2412.17256) [[github]](https://github.com/hkust-nlp/B-STaR)

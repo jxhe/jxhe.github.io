@@ -12,7 +12,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 **CodeIO: Condensing Reasoning Patterns via Code Input-Output Prediction**  
 Junlong Li, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, *<ins>Junxian He</ins>*  
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2502.07316) [[github]](https://github.com/hkust-nlp/CodeIO)  
-<span style="color:red"><i>Spotlight</i></span>
+<span style="color:red"><i>Oral</i></span>
 
 **Diving into Self-Evolving Training for Multimodal Reasoning**  
 Wei Liu\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, *<ins>Junxian He</ins>*  

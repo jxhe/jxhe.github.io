@@ -19,7 +19,7 @@ Wei Liu\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, *<ins>Junxian He</ins>
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2412.17451)  [[github]](https://github.com/hkust-nlp/mstar)
 
 **Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**  
-Shiqi Chen, Jinghan Zhang, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling Li, *<ins>Junxian He</ins>*  
+Shiqi Chen\*, Jinghan Zhang\*, Tongyao Zhu, Wei Liu, Siyang Gao, Miao Xiong, Manling Li, *<ins>Junxian He</ins>*  
 ICML 2025.  
 
 **Predictive Data Selection: The Data That Predicts Is the Data That Teaches**  

@@ -9,6 +9,18 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
+**SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**  
+Weihao Zeng, Yuzhen Huang, Qian Liu, Wei Liu, Keqing He, Zejun MA, *<ins>Junxian He</ins>*  
+COLM 2025. [[arxiv]](https://arxiv.org/abs/2503.18892) [[github]](https://github.com/hkust-nlp/simpleRL-reason)
+
+**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**  
+Junlei Zhang, Zichen Ding, Chang Ma, Zijie Chen, Qiushi Sun, Zhenzhong Lan, *<ins>Junxian He</ins>*  
+COLM 2025. [[arxiv]](https://arxiv.org/abs/2504.10127) [[github]](https://github.com/hkust-nlp/GUIMid)
+
+**FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios**  
+Ethan Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, *<ins>Junxian He</ins>*, Graham Neubig, Pengfei Liu  
+COLM 2025. [[arxiv]](https://arxiv.org/abs/2307.13528) [[github]](https://github.com/GAIR-NLP/factool)
+
 **CodeIO: Condensing Reasoning Patterns via Code Input-Output Prediction**  
 Junlong Li, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, *<ins>Junxian He</ins>*  
 ICML 2025. [[arxiv]](https://arxiv.org/abs/2502.07316) [[github]](https://github.com/hkust-nlp/CodeIO)  

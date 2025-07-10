@@ -10,7 +10,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 
 **SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**  
-Weihao Zeng, Yuzhen Huang, Qian Liu, Wei Liu, Keqing He, Zejun MA, *<ins>Junxian He</ins>*  
+Weihao Zeng\*, Yuzhen Huang\*, Qian Liu\*, Wei Liu, Keqing He, Zejun MA, *<ins>Junxian He</ins>*  
 COLM 2025. [[arxiv]](https://arxiv.org/abs/2503.18892) [[github]](https://github.com/hkust-nlp/simpleRL-reason)
 
 **Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**  

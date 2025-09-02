@@ -5,6 +5,53 @@ permalink: /group/
 author_profile: true
 ---
 
+<style>
+/* Minimal, dependency-free slider for two hero images */
+.group-hero-slider {
+  max-width: 900px;
+  margin: 20px auto 30px auto;
+  border-radius: 0; /* no rounded container */
+  box-shadow: none; /* remove drop shadow */
+  background: transparent; /* fully invisible container */
+  overflow: hidden; /* keep slides clipped */
+  position: relative;
+}
+.hero-track {
+  display: flex;
+  width: 100%;
+  transition: transform 0.4s ease;
+}
+.hero-slide {
+  min-width: 100%;
+}
+.hero-slide img { display: block; width: 100%; height: auto; }
+.hero-caption { margin: 10px 0 0 0; text-align: center; color: #666; }
+
+.hero-prev, .hero-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 0;
+  background: rgba(0,0,0,0.28); /* subtle, semi-transparent */
+  color: #fff;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  box-shadow: none; /* no extra emphasis */
+  cursor: pointer;
+  font-weight: 900;
+}
+.hero-prev { left: 10px; }
+.hero-next { right: 10px; }
+
+.hero-dots { display: none; }
+.hero-dot { display: none; }
+.hero-dot.active { display: none; }
+
+/* lighter on hover but still subtle */
+.hero-prev:hover, .hero-next:hover { background: rgba(0,0,0,0.45); }
+</style>
+
 <!-- Main -->
 
 <div id="main">
@@ -14,17 +61,23 @@ author_profile: true
         <h2>Current Members</h2>
       </header> -->
     <!-- I am fortunate to work with the students in our group. -->
-    <div class="glider-contain">
-      <div class="glider">
-        <div>         
-          <center>
-          <img width="880" height="500" src="{{ site.baseurl }}/images/members/group.jpg">
-          <p>Lab Members @ 2024 Spring</p></center>
+    <div class="group-hero-slider" id="group-hero-slider">
+      <div class="hero-track">
+        <div class="hero-slide">
+          <img src="{{ site.baseurl }}/images/members/group1.jpg" alt="Lab Members at Hong Kong, 2025 Spring">
+          <p class="hero-caption">Lab Members @ 2025 Spring</p>
+        </div>
+        <div class="hero-slide">
+          <img src="{{ site.baseurl }}/images/members/group2.jpg" alt="Lab Members @ 2024 Spring">
+          <p class="hero-caption">Lab Members @ 2024 Spring</p>
         </div>
       </div>
-      <!-- <button aria-label="Previous" class="glider-prev">«</button>
-      <button aria-label="Next" class="glider-next">»</button> -->
-      <!-- <div role="tablist" class="dots"></div> -->
+      <button class="hero-prev" aria-label="Previous">«</button>
+      <button class="hero-next" aria-label="Next">»</button>
+      <div class="hero-dots">
+        <button class="hero-dot" aria-label="Go to slide 1"></button>
+        <button class="hero-dot" aria-label="Go to slide 2"></button>
+      </div>
     </div>
 {% for group in site.data.people %}
   <div class ="row" style="margin-top:20px">
@@ -34,19 +87,37 @@ author_profile: true
   </div>
   
   <div>
-    {% for member in group.people %}
-
-      <div class="member-card">
-        <div>
-        <a href="{{member.url}}">
-          <img class="img-thumbnail" width="220", height="220", src="{% if member.githubid  %}https://avatars2.githubusercontent.com/u/{{member.githubid}}?v=3&s=400{% else %}{{member.pic}}{% endif %}">
-        </a>
-        </div>
-        <div style="margin-bottom:15px">
-          <center><b>{{member.name}}</b><br>{{member.description}}</br></center></div> 
+    {% if group.group == "Alumni" %}
+      <!-- Alumni section: display subsections without photos -->
+      <div>
+        {% for subsection in group.subsections %}
+          <h4 style="margin-top: 20px; margin-bottom: 10px; color: #2c3e50;">{{subsection.subsection}}</h4>
+          {% for member in subsection.people %}
+            <p style="margin-bottom: 8px;">
+              {% if member.url and member.url != "" %}
+                <a href="{{member.url}}" target="_blank">{{member.name}}</a>
+              {% else %}
+                {{member.name}}
+              {% endif %}
+              ({{member.description}})
+            </p>
+          {% endfor %}
+        {% endfor %}
       </div>
-
-    {% endfor %}
+    {% else %}
+      <!-- Regular sections: display with photos -->
+      {% for member in group.people %}
+        <div class="member-card">
+          <div>
+          <a href="{{member.url}}">
+            <img class="img-thumbnail" width="220", height="220", src="{% if member.githubid  %}https://avatars2.githubusercontent.com/u/{{member.githubid}}?v=3&s=400{% else %}{{member.pic}}{% endif %}">
+          </a>
+          </div>
+          <div style="margin-bottom:15px">
+            <center><b>{{member.name}}</b><br>{{member.description}}</br></center></div> 
+        </div>
+      {% endfor %}
+    {% endif %}
   </div>
 {% endfor %}
 
@@ -56,3 +127,29 @@ author_profile: true
 </div>
 </div>
 <!-- /Main -->
+
+<!-- Minimal slider JS (no external dependency) -->
+<script>
+(function(){
+  var slider = document.getElementById('group-hero-slider');
+  if(!slider) return;
+  var track = slider.querySelector('.hero-track');
+  var slides = slider.querySelectorAll('.hero-slide');
+  var prevBtn = slider.querySelector('.hero-prev');
+  var nextBtn = slider.querySelector('.hero-next');
+  var dots = slider.querySelectorAll('.hero-dot');
+  var index = 0;
+
+  function update(){
+    track.style.transform = 'translateX(' + (-index * 100) + '%)';
+    dots.forEach(function(d,i){ d.classList.toggle('active', i===index); });
+  }
+
+  prevBtn.addEventListener('click', function(){ index = (index + slides.length - 1) % slides.length; update(); });
+  nextBtn.addEventListener('click', function(){ index = (index + 1) % slides.length; update(); });
+  dots.forEach(function(d,i){ d.addEventListener('click', function(){ index = i; update(); }); });
+
+  update();
+})();
+</script>
+

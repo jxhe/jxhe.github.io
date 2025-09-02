@@ -3,7 +3,7 @@
     - name : Yuxuan Cao
       url : "https://caoyxuan.github.io"
       pic: "/images/members/yuxuan_cao.jpg"
-      description: PhD (Incoming)
+      description: PhD
       bio : 
     - name : Yuzhen Huang
       github: 
@@ -13,7 +13,7 @@
     - name : Junlong Li
       url : "https://lockon-n.github.io"
       pic: "/images/members/junlong_li.jpg"
-      description: PhD (Incoming)
+      description: PhD
       bio : factuality
     - name : Junteng Liu
       url : "https://vicent0205.github.io/"
@@ -34,11 +34,11 @@
       github: 
       url: "https://zhaochen0110.github.io"
       pic: "/images/members/zhaochen_su.jpg"
-      description : PhD (Incoming), co-advised w/ Yi R. Fung
+      description : PhD, co-advised w/ Yi R. Fung
     - name : Weihao Zeng
       url : "https://github.com/Zeng-WH"
       pic: "/images/members/weihao_zeng.jpg"
-      description: PhD (Incoming)
+      description: PhD
       bio : sft
     - name : Jinghan Zhang
       github: 
@@ -63,43 +63,38 @@
       pic: "/images/members/yiyun_deng.jpg"
       description: Undergrad @ Tsinghua
       bio: 
-    - name: Yujia Fu
-      url: ""
-      pic: "/images/members/yujia_fu.jpg"
-      description: Undergrad @ BUPT
-      bio: 
     - name: Chang Ma
       url: "https://chang-github-00.github.io/-changma/"
       pic: "/images/members/chang_ma.jpg"
       description: PhD @ HKU
       bio: AI for Science
-    - name: Junlei Zhang
-      url: ""
-      pic: "/images/members/junlei_zhang.jpg"
-      description: PhD @ Westlake
-      bio: tool
-    - name: Ruochen Zhou
-      url: ""
-      pic: "/images/members/ruochen_zhou.jpg"
-      description: PhD @ CityU
-      bio: tool
-    # - name: Yuxuan Tong
-    #   url: "https://tongyx361.github.io/"
-    #   pic: "/images/members/yuxuan_tong.jpg"
-    #   description: Undergrad @ Tsinghua
-    #   bio: reward model
-    # - name: Cheng Yang
-    #   url: ""
-    #   pic: "/images/members/cheng_yang.jpg"
-    #   description: Master @ Tsinghua
-    #   bio: tool
-    # - name : Jinghan Yang
-    #   url : "http://jinghanyang.com/"
-    #   pic: "/images/members/jinghan_yang.jpg"
-    #   description: Undergrad @ HKU
-    #   bio : ICL
-    # - name: Ting Wu
-    #   url: ""
-    #   pic: "/images/members/ting_wu.jpg"
-    #   description: Master @ Fudan
-    #   bio: reasoning
+
+
+- group: Alumni
+  subsections:
+    - subsection: Visitors
+      people:
+        - name: Ruochen Zhou
+          url: ""
+          description: Visitor @ CityU PhD 2024-2025
+        - name: Junlei Zhang
+          url: ""
+          description: Visitor @ Westlake PhD 2023-2025  
+        - name: Yuxuan Tong
+          url: "https://tongyx361.github.io/"
+          description: Visitor @ Tsinghua Undergrad 2023-2024 -> Bytedance Seed
+        - name: Cheng Yang
+          url: ""
+          description: Visitor @ Tsinghua Master 2023 -> UCSD PhD 
+        - name : Jinghan Yang
+          url : ""
+          description: Visitor @ HKU Undergrad 2023
+        # - name: Ting Wu
+        #   url: ""
+        #   description: Master @ Fudan
+
+        # - name: Yujia Fu
+        #   url: ""
+        #   pic: "/images/members/yujia_fu.jpg"
+        #   description: Undergrad @ BUPT
+        #   bio: 

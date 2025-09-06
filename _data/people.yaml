@@ -72,7 +72,7 @@
 
 - group: Alumni
   subsections:
-    - subsection: Visitors
+    - subsection: Visitors (with us for more than 6 months)
       people:
         - name: Ruochen Zhou
           url: ""
@@ -86,9 +86,6 @@
         - name: Cheng Yang
           url: ""
           description: Visitor @ Tsinghua Master 2023 -> UCSD PhD 
-        - name : Jinghan Yang
-          url : ""
-          description: Visitor @ HKU Undergrad 2023
         # - name: Ting Wu
         #   url: ""
         #   description: Master @ Fudan

@@ -68,6 +68,16 @@
       pic: "/images/members/chang_ma.jpg"
       description: PhD @ HKU
       bio: AI for Science
+    - name: Haoze Wu
+      url: ""
+      pic: "/images/members/haoze_wu.jpg"
+      description: Undergrad @ ZJU
+      bio: 
+    - name: Wenshuo Zhao
+      url: "https://edric-zhao.github.io"
+      pic: "/images/members/wenshuo_zhao.jpg"
+      description: Undergrad @ ZJU
+      bio: 
 
 
 - group: Alumni
@@ -84,5 +94,5 @@
           url: "https://tongyx361.github.io/"
           description: Visitor @ Tsinghua Undergrad 2023-2024 -> Bytedance Seed
         - name: Cheng Yang
-          url: ""
+          url: "https://chengyang.notion.site/aboutme"
           description: Visitor @ Tsinghua Master 2023 -> UCSD PhD 

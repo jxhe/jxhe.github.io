@@ -68,10 +68,20 @@
       pic: "/images/members/chang_ma.jpg"
       description: PhD @ HKU
       bio: AI for Science
+    - name: Cheng Wang
+      url: "https://wangcheng0116.github.io"
+      pic: "/images/members/cheng_wang.jpg"
+      description: Undergrad @ NUS
+      bio: 
     - name: Haoze Wu
       url: ""
       pic: "/images/members/haoze_wu.jpg"
       description: Undergrad @ ZJU
+      bio: 
+    - name: Lueyang Zhang
+      url: ""
+      pic: "/images/members/lueyang_zhang.jpg"
+      description: Undergrad @ HKUST
       bio: 
     - name: Wenshuo Zhao
       url: "https://edric-zhao.github.io"

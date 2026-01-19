@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Below is a list of recent publications that are representative of current directions in my research. A full list is on [Google Scholar](https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en).  
+Below is a list of recent publications that are representative of my current research. A full list is on [Google Scholar](https://scholar.google.com/citations?user=BIFGeoUAAAAJ&hl=en).  
 \* denotes co-first authors
 <!-- $^\dagger$ denotes corresponding author/main advisor -->
 

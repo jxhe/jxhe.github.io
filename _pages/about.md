@@ -46,7 +46,7 @@ I enjoy working on interesting problems. Currently, I am passionate about long-h
 [2025 Fall] [Large Language Models [COMP 4901B]](/teaching/comp4901bf25)
 
 # Service
-Area Chair: ICLR, EMNLP, ACL, ARR    
+Area Chair: ICLR, ICML, EMNLP, ACL, ARR    
 Reviewer: ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, ARR, TMLR
 
 # Awards

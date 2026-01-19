@@ -31,16 +31,21 @@
     display: inline-block;
     padding: 0.3em 0.8em 0.3em 0.8em;
     margin-left: -0.8em;
-    margin-top: 2em;
-    margin-bottom: 0.3em;
+    margin-top: 1.5em;
+    margin-bottom: 0.1em;
     border: none;
     border-radius: 4px;
     background: #e8eef4;
     font-weight: 600;
     font-size: 1.1em;
     color: #2d3748;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+
+  /* Reduce spacing between papers */
+  > p {
+    margin-bottom: 0.5em;
+    margin-top: 0;
   }
 
   /* Paper link styling */

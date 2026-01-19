@@ -28,8 +28,7 @@ Preprint 2025. [arxiv](https://arxiv.org/abs/2510.06135)
 
 **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
 Chang Ma\*, Junlei Zhang\*, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, *<ins>Junxian He</ins>*  
-NeurIPS 2024 (Datasets and Benchmarks Track). [arxiv](https://arxiv.org/abs/2401.13178) [github](https://github.com/hkust-nlp/AgentBoard)  
-<span style="color:red"><i>Oral</i></span>
+NeurIPS 2024 (Datasets and Benchmarks Track). <span style="color:red"><i>Oral</i></span> [arxiv](https://arxiv.org/abs/2401.13178) [github](https://github.com/hkust-nlp/AgentBoard)
 
 <h2 class="pub-section">Reinforcement Learning, Self-Improving, Synthetic Data</h2>
 
@@ -39,8 +38,7 @@ COLM 2025. [arxiv](https://arxiv.org/abs/2503.18892) [github](https://github.com
 
 **CodeIO: Condensing Reasoning Patterns via Code Input-Output Prediction**  
 Junlong Li, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, *<ins>Junxian He</ins>*  
-ICML 2025. [arxiv](https://arxiv.org/abs/2502.07316) [github](https://github.com/hkust-nlp/CodeIO)  
-<span style="color:red"><i>Oral</i></span>
+ICML 2025. <span style="color:red"><i>Oral</i></span> [arxiv](https://arxiv.org/abs/2502.07316) [github](https://github.com/hkust-nlp/CodeIO)
 
 **Mirage or Method? How Model-Task Alignment Induces Divergent RL Conclusions**  
 Haoze Wu\*, Cheng Wan\*, Wenshuo Zhao, *<ins>Junxian He</ins>*  
@@ -82,8 +80,7 @@ NeurIPS 2023 (Datasets and Benchmarks track). [arxiv](https://arxiv.org/abs/2310
 
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *<ins>Junxian He</ins>*\*, Chunting Zhou*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
-ICLR 2022. [OpenReview](https://openreview.net/forum?id=0RDcd5Axok) [arxiv](http://arxiv.org/abs/2110.04366) [code](https://github.com/jxhe/unify-parameter-efficient-tuning)  
-<span style="color:red"><i>Spotlight</i></span>
+ICLR 2022. <span style="color:red"><i>Spotlight</i></span> [OpenReview](https://openreview.net/forum?id=0RDcd5Axok) [arxiv](http://arxiv.org/abs/2110.04366) [code](https://github.com/jxhe/unify-parameter-efficient-tuning)
 
 **CTRLsum: Towards Generic Controllable Text Summarization**  
 *<ins>Junxian He</ins>*, Wojciech Kryściński, Bryan McCann, Nazneen Rajani, Caiming Xiong  
@@ -201,8 +198,7 @@ EMNLP 2022 Findings. [arxiv](https://arxiv.org/abs/2205.00049)
 
 **Towards a Unified View of Parameter-Efficient Transfer Learning**  
 *<ins>Junxian He</ins>*\*, Chunting Zhou*, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig   
-ICLR 2022. [OpenReview](https://openreview.net/forum?id=0RDcd5Axok) [arxiv](http://arxiv.org/abs/2110.04366) [code](https://github.com/jxhe/unify-parameter-efficient-tuning)  
-<span style="color:red"><i>Spotlight</i></span>
+ICLR 2022. <span style="color:red"><i>Spotlight</i></span> [OpenReview](https://openreview.net/forum?id=0RDcd5Axok) [arxiv](http://arxiv.org/abs/2110.04366) [code](https://github.com/jxhe/unify-parameter-efficient-tuning)
 
 **Capturing Structural Locality in Non-parametric Language Models**  
 Frank F. Xu, *<ins>Junxian He</ins>*, Graham Neubig, Vincent Josua Hellendoorn  
@@ -232,8 +228,7 @@ NeurIPS 2020. [arxiv](https://arxiv.org/abs/2006.16336) [code](https://github.co
 
 **A Probabilistic Formulation of Unsupervised Text Style Transfer**  
 *<ins>Junxian He</ins>*\*, Xinyi Wang*, Graham Neubig, Taylor Berg-Kirkpatrick  
-ICLR 2020. [arxiv](https://arxiv.org/abs/2002.03912) [code](https://github.com/cindyxinyiwang/deep-latent-sequence-model)  
-<span style="color:red"><i>Spotlight</i></span>
+ICLR 2020. <span style="color:red"><i>Spotlight</i></span> [arxiv](https://arxiv.org/abs/2002.03912) [code](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
 
 **On the Sentence Embeddings from Pre-trained Language Models**  
 Bohan Li, Hao Zhou, *<ins>Junxian He</ins>*, Mingxuan Wang, Yiming Yang, Lei Li  

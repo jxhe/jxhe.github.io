@@ -25,6 +25,48 @@
       }
     }
   }
+
+  /* Publication section headers */
+  h2.pub-section {
+    display: inline-block;
+    padding: 0.3em 0.8em 0.3em 0.8em;
+    margin-left: -0.8em;
+    margin-top: 2em;
+    margin-bottom: 0.3em;
+    border: none;
+    border-radius: 4px;
+    background: #e8eef4;
+    font-weight: 600;
+    font-size: 1.1em;
+    color: #2d3748;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  /* Paper link styling */
+  p a[href*="arxiv"],
+  p a[href*="github"],
+  p a[href*="openreview"],
+  p a[href*="huggingface"],
+  p a[href^="http"]:not([href*="scholar.google"]) {
+    display: inline-block;
+    padding: 0.15em 0.5em;
+    margin: 0.1em 0.1em;
+    font-size: 0.85em;
+    color: #4a7dbd;
+    background: #f7fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 3px;
+    text-decoration: none;
+    transition: all 0.15s ease;
+
+    &:hover {
+      background: #4a7dbd;
+      color: #fff;
+      border-color: #4a7dbd;
+      text-decoration: none;
+    }
+  }
 }
 
 .archive__subtitle {

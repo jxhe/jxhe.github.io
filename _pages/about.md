@@ -29,7 +29,7 @@ Please drop me an email if you are interested.
 
 # Research
         
-I am generally interested in machine learning and natural language processing. Currently, I am passionate about long-horizon reasoning and planning of large language models.
+I enjoy working on interesting problems. Currently, I am passionate about long-horizon reasoning and planning of large language models.
 
 <!-- - complex reasoning ([Guided Decoding](https://arxiv.org/abs/2305.00633))  
 - data-centric approaches ([Deita](https://arxiv.org/abs/2312.15685))

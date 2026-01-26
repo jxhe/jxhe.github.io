@@ -41,7 +41,7 @@ Junlong Li, Daya Guo, Dejian Yang, Runxin Xu, Yu Wu, *<ins>Junxian He</ins>*
 ICML 2025. <span style="color:red"><i>Oral</i></span> [arxiv](https://arxiv.org/abs/2502.07316) [github](https://github.com/hkust-nlp/CodeIO)
 
 **Mirage or Method? How Model-Task Alignment Induces Divergent RL Conclusions**  
-Haoze Wu\*, Cheng Wan\*, Wenshuo Zhao, *<ins>Junxian He</ins>*  
+Haoze Wu\*, Cheng Wang\*, Wenshuo Zhao, *<ins>Junxian He</ins>*  
 ICLR 2026. [arxiv](https://arxiv.org/abs/2508.21188) [github](https://github.com/hkust-nlp/model-task-align-rl)
 
 <!-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  

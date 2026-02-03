@@ -43,7 +43,8 @@ I enjoy working on interesting problems. Currently, I am passionate about long-h
 [2024 Spring] Machine Learning [COMP 5212]  
 [2024 Fall] Machine Learning [COMP 5212]  
 [2025 Spring] Machine Learning [COMP 4211]  
-[2025 Fall] [Large Language Models [COMP 4901B]](/teaching/comp4901bf25)
+[2025 Fall] [Large Language Models [COMP 4901B]](/teaching/comp4901bf25)  
+[2026 Spring] [Machine Learning [COMP 5212]](/teaching/comp5212s26)  
 
 # Service
 Area Chair: ICLR, ICML, EMNLP, ACL, ARR    

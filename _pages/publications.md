@@ -14,17 +14,18 @@ Below is a list of recent publications that are representative of my current res
 Junlong Li\*, Wenshuo Zhao\*, Jian Zhao\*, Weihao Zeng\*, Haoze Wu\*, Xiaochen Wang, Rui Ge, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, *<ins>Junxian He</ins>*  
 ICLR 2026. [arxiv](https://arxiv.org/abs/2510.25726) [github](https://github.com/hkust-nlp/toolathlon) [website](https://toolathlon.xyz/)
 
-**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**  
-Junteng Liu\*, Yunji Li\*, Chi Zhang, Jingyang Li, Aili Chen, Ke Ji, Weiyu Cheng, Zijia Wu, Chengyu Du, Qidi Xu, Jiayuan Song, Zhengmao Zhu, Wenhu Chen, Pengyu Zhao, *<ins>Junxian He</ins>*  
-Preprint 2025. [arxiv](https://arxiv.org/abs/2509.06501) [github](https://github.com/hkust-nlp/WebExplorer)
+**Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations**  
+Wei Liu, Jiawei Xu, Yingru Li, Longtao Zheng, Tianjian Li, Qian Liu, *<ins>Junxian He</ins>*  
+Preprint 2026. [arxiv](https://arxiv.org/abs/2602.05885) [github](https://github.com/hkust-nlp/KernelGYM)
 
 **SWE-RM: Execution-free Feedback For Software Engineering Agents**  
 KaShun Shum\*, Binyuan Hui\*, Jiawei Chen, Lei Zhang, X. W., Jiaxi Yang, Yuzhen Huang, Junyang Lin, *<ins>Junxian He</ins>*  
 ICLR 2026. [arxiv](https://www.arxiv.org/abs/2512.21919)
 
-**Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification**  
-Weihao Zeng, Keqing He, Chuqiao Kuang, Xiaoguang Li, *<ins>Junxian He</ins>*  
-ICLR 2026. [arxiv](https://arxiv.org/abs/2510.06135)
+**WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**  
+Junteng Liu\*, Yunji Li\*, Chi Zhang, Jingyang Li, Aili Chen, Ke Ji, Weiyu Cheng, Zijia Wu, Chengyu Du, Qidi Xu, Jiayuan Song, Zhengmao Zhu, Wenhu Chen, Pengyu Zhao, *<ins>Junxian He</ins>*  
+Preprint 2025. [arxiv](https://arxiv.org/abs/2509.06501) [github](https://github.com/hkust-nlp/WebExplorer)
+
 
 **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
 Chang Ma\*, Junlei Zhang\*, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, *<ins>Junxian He</ins>*  

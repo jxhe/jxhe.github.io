@@ -18,13 +18,13 @@ ICLR 2026. [arxiv](https://arxiv.org/abs/2510.25726) [github](https://github.com
 Wei Liu, Jiawei Xu, Yingru Li, Longtao Zheng, Tianjian Li, Qian Liu, *<ins>Junxian He</ins>*  
 Preprint 2026. [arxiv](https://arxiv.org/abs/2602.05885) [github](https://github.com/hkust-nlp/KernelGYM)
 
-**Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification**  
-Weihao Zeng, Keqing He, Chuqiao Kuang, Xiaoguang Li, *<ins>Junxian He</ins>*  
-ICLR 2026. [arxiv](https://arxiv.org/abs/2510.06135)
-
 **LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth**  
 Weihao Zeng, Yuzhen Huang, *<ins>Junxian He</ins>*  
 Preprint 2026. [arxiv](https://arxiv.org/abs/2602.07962) [github](https://github.com/hkust-nlp/LOCA-bench)
+
+**Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification**  
+Weihao Zeng, Keqing He, Chuqiao Kuang, Xiaoguang Li, *<ins>Junxian He</ins>*  
+ICLR 2026. [arxiv](https://arxiv.org/abs/2510.06135)
 
 <!-- **SWE-RM: Execution-free Feedback For Software Engineering Agents**  
 KaShun Shum\*, Binyuan Hui\*, Jiawei Chen, Lei Zhang, X. W., Jiaxi Yang, Yuzhen Huang, Junyang Lin, *<ins>Junxian He</ins>*  

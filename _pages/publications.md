@@ -18,6 +18,14 @@ ICLR 2026. [arxiv](https://arxiv.org/abs/2510.25726) [github](https://github.com
 Wei Liu, Jiawei Xu, Yingru Li, Longtao Zheng, Tianjian Li, Qian Liu, *<ins>Junxian He</ins>*  
 Preprint 2026. [arxiv](https://arxiv.org/abs/2602.05885) [github](https://github.com/hkust-nlp/KernelGYM)
 
+**LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth**  
+Weihao Zeng, Yuzhen Huang, *<ins>Junxian He</ins>*  
+Preprint 2026. [arxiv](https://arxiv.org/abs/2602.07962) [github](https://github.com/hkust-nlp/LOCA-bench)
+
+**Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification**  
+Weihao Zeng, Keqing He, Chuqiao Kuang, Xiaoguang Li, *<ins>Junxian He</ins>*  
+ICLR 2026. [arxiv](https://arxiv.org/abs/2510.06135)
+
 **SWE-RM: Execution-free Feedback For Software Engineering Agents**  
 KaShun Shum\*, Binyuan Hui\*, Jiawei Chen, Lei Zhang, X. W., Jiaxi Yang, Yuzhen Huang, Junyang Lin, *<ins>Junxian He</ins>*  
 ICLR 2026. [arxiv](https://www.arxiv.org/abs/2512.21919)
@@ -27,9 +35,9 @@ Junteng Liu\*, Yunji Li\*, Chi Zhang, Jingyang Li, Aili Chen, Ke Ji, Weiyu Cheng
 Preprint 2025. [arxiv](https://arxiv.org/abs/2509.06501) [github](https://github.com/hkust-nlp/WebExplorer)
 
 
-**AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
+<!-- **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**  
 Chang Ma\*, Junlei Zhang\*, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, *<ins>Junxian He</ins>*  
-NeurIPS 2024 (Datasets and Benchmarks Track). <span style="color:red"><i>Oral</i></span> [arxiv](https://arxiv.org/abs/2401.13178) [github](https://github.com/hkust-nlp/AgentBoard)
+NeurIPS 2024 (Datasets and Benchmarks Track). <span style="color:red"><i>Oral</i></span> [arxiv](https://arxiv.org/abs/2401.13178) [github](https://github.com/hkust-nlp/AgentBoard) -->
 
 <h2 class="pub-section">Reinforcement Learning, Self-Improving, Synthetic Data</h2>
 

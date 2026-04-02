@@ -26,6 +26,8 @@
     "uglify-js": "^2.6.1"
   },
   "scripts": {
+    "jekyll:build:local": "bundle exec jekyll build --config _config.yml,_config.dev.yml",
+    "jekyll:serve:local": "bundle exec jekyll serve --config _config.yml,_config.dev.yml",
     "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify"

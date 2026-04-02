@@ -5,6 +5,11 @@
       pic: "/images/members/yuxuan_cao.jpg"
       description: PhD
       bio : 
+    - name : Yanheng He
+      url : "https://henryhe0123.github.io"
+      pic: "/images/members/yanheng_he.jpg"
+      description: PhD (incoming)
+      bio : 
     - name : Yuzhen Huang
       github: 
       url: "https://hyz17.github.io/"
@@ -35,16 +40,24 @@
       url: "https://zhaochen0110.github.io"
       pic: "/images/members/zhaochen_su.jpg"
       description : PhD, co-advised w/ Yi R. Fung
+    - name: Haoze Wu
+      url: "https://waithz.github.io"
+      pic: "/images/members/haoze_wu.jpg"
+      description: MPhil (incoming)
     - name : Weihao Zeng
       url : "https://github.com/Zeng-WH"
       pic: "/images/members/weihao_zeng.jpg"
       description: PhD
-      bio : sft
     - name : Jinghan Zhang
       github: 
       url: "http://jinghan23.github.io/"
       pic: "/images/members/jinghan_zhang.jpg"
       description : PhD
+    - name: Wenshuo Zhao
+      url: "https://edric-zhao.github.io"
+      pic: "/images/members/wenshuo_zhao.jpg"
+      description: PhD (incoming)
+      bio: 
     - name : Liangjun Zhong
       github: 
       url: 
@@ -58,51 +71,38 @@
       pic: "/images/members/shiqi_chen.jpg"
       description: PhD @ CityU
       bio : factuality
-    - name: Yiyun Deng
-      url: ""
-      pic: "/images/members/yiyun_deng.jpg"
-      description: Undergrad @ Tsinghua
-      bio: 
-    - name: Chang Ma
-      url: "https://chang-github-00.github.io/-changma/"
-      pic: "/images/members/chang_ma.jpg"
-      description: PhD @ HKU
-      bio: AI for Science
-    - name: Cheng Wang
-      url: "https://wangcheng0116.github.io"
-      pic: "/images/members/cheng_wang.jpg"
-      description: Undergrad @ NUS
-      bio: 
-    - name: Haoze Wu
-      url: ""
-      pic: "/images/members/haoze_wu.jpg"
-      description: Undergrad @ ZJU
-      bio: 
-    - name: Lueyang Zhang
-      url: ""
-      pic: "/images/members/lueyang_zhang.jpg"
-      description: Undergrad @ HKUST
-      bio: 
-    - name: Wenshuo Zhao
-      url: "https://edric-zhao.github.io"
-      pic: "/images/members/wenshuo_zhao.jpg"
-      description: Undergrad @ ZJU
-      bio: 
+    - name : Hao Li
+      url : "https://llleoli.github.io"
+      pic: "/images/members/hao_li.jpg"
+      description: Master @ Beihang
+      bio :  
 
 
 - group: Alumni
   subsections:
     - subsection: Visitors (with us for more than 6 months)
       people:
+        - name: Chang Ma
+          url: "https://chang-github-00.github.io/-changma/"
+          description: Visitor @ HKU PhD 2023-2026 -> UW Postdoc
+        - name: Yiyun Deng
+          url: ""
+          description: Visitor @ Tsinghua Undergrad 2024-2026
         - name: Ruochen Zhou
           url: ""
           description: Visitor @ CityU PhD 2024-2025
         - name: Junlei Zhang
           url: ""
-          description: Visitor @ Westlake PhD 2023-2025  
+          description: Visitor @ Westlake PhD 2023-2025
+        - name: Lueyang Zhang
+          url: ""
+          description: Visitor @ HKUST Undergrad 2025
+        - name: Cheng Wang
+          url: "https://wangcheng0116.github.io"
+          description: Visitor @ NUS Undergrad 2025
         - name: Yuxuan Tong
           url: "https://tongyx361.github.io/"
           description: Visitor @ Tsinghua Undergrad 2023-2024 -> Bytedance Seed
         - name: Cheng Yang
           url: "https://chengyang.notion.site/aboutme"
-          description: Visitor @ Tsinghua Master 2023 -> UCSD PhD 
+          description: Visitor @ Tsinghua Master 2023 -> UCSD PhD

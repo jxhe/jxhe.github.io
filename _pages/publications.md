@@ -22,13 +22,13 @@ Preprint 2026. [arxiv](https://arxiv.org/abs/2602.05885) [github](https://github
 Weihao Zeng, Yuzhen Huang, *<ins>Junxian He</ins>*  
 Preprint 2026. [arxiv](https://arxiv.org/abs/2602.07962) [github](https://github.com/hkust-nlp/LOCA-bench)
 
-**Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification**  
+<!-- **Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification**  
 Weihao Zeng, Keqing He, Chuqiao Kuang, Xiaoguang Li, *<ins>Junxian He</ins>*  
 ICLR 2026. [arxiv](https://arxiv.org/abs/2510.06135)
 
 **SWE-RM: Execution-free Feedback For Software Engineering Agents**  
-KaShun Shum\*, Binyuan Hui\*, Jiawei Chen, Lei Zhang, X. W., Jiaxi Yang, Yuzhen Huang, Junyang Lin, *<ins>Junxian He</ins>*  
-ICLR 2026. [arxiv](https://www.arxiv.org/abs/2512.21919)
+KaShun Shum\*, Binyuan Hui\*, Jiawei Chen, Lei Zhang, X. W., Jiaxi Yang, Yuzhen Huang, Junyang Lin, *<ins>Junxian He</ins>*   -->
+<!-- ICLR 2026. [arxiv](https://www.arxiv.org/abs/2512.21919) -->
 
 **WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents**  
 Junteng Liu\*, Yunji Li\*, Chi Zhang, Jingyang Li, Aili Chen, Ke Ji, Weiyu Cheng, Zijia Wu, Chengyu Du, Qidi Xu, Jiayuan Song, Zhengmao Zhu, Wenhu Chen, Pengyu Zhao, *<ins>Junxian He</ins>*  

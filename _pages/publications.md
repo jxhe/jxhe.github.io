@@ -16,11 +16,11 @@ ICLR 2026. [arxiv](https://arxiv.org/abs/2510.25726) [github](https://github.com
 
 **Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations**  
 Wei Liu, Jiawei Xu, Yingru Li, Longtao Zheng, Tianjian Li, Qian Liu, *<ins>Junxian He</ins>*  
-Preprint 2026. [arxiv](https://arxiv.org/abs/2602.05885) [github](https://github.com/hkust-nlp/KernelGYM)
+ICML 2026. [arxiv](https://arxiv.org/abs/2602.05885) [github](https://github.com/hkust-nlp/KernelGYM)
 
 **LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth**  
 Weihao Zeng, Yuzhen Huang, *<ins>Junxian He</ins>*  
-Preprint 2026. [arxiv](https://arxiv.org/abs/2602.07962) [github](https://github.com/hkust-nlp/LOCA-bench)
+ICML 2026. [arxiv](https://arxiv.org/abs/2602.07962) [github](https://github.com/hkust-nlp/LOCA-bench)
 
 <!-- **Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification**  
 Weihao Zeng, Keqing He, Chuqiao Kuang, Xiaoguang Li, *<ins>Junxian He</ins>*  

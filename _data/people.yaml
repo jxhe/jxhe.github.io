@@ -69,12 +69,12 @@
     - name : Shiqi Chen
       url : "https://shiqichen17.github.io"
       pic: "/images/members/shiqi_chen.jpg"
-      description: PhD @ CityU
+      description: PhD
       bio : factuality
     - name : Hao Li
-      url : "https://llleoli.github.io"
+      url : ""
       pic: "/images/members/hao_li.jpg"
-      description: Master @ Beihang
+      description: Master
       bio :  
 
 

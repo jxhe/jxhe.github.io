@@ -39,14 +39,14 @@ I enjoy working on interesting problems. Currently, I am passionate about long-h
 [2024 Fall] Machine Learning [COMP 5212]  
 [2025 Spring] Machine Learning [COMP 4211]  
 [2025 Fall] Large Language Models [COMP 4901B]  
-[2026 Spring] [Machine Learning [COMP 5212]](/teaching/comp5212s26)  
+[2026 Spring] Machine Learning [COMP 5212]
 
 # Service
-Area Chair: ICLR, ICML, EMNLP, ACL, ARR    
+Area Chair: ICLR, NeurIPS,ICML, EMNLP, ACL, ARR    
 Reviewer: ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, ARR, TMLR
 
-# Awards
-Baidu PhD Fellowship, class of 2020 (10 recipients worldwide)  
+<!-- # Awards
+Baidu PhD Fellowship, class of 2020 (10 recipients worldwide)   -->
 <!-- National Scholarship in China (2014/2015/2016) -->
 <!-- Outstanding Undergraduate Thesis in SJTU (top 1%)   -->
 

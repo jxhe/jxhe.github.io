@@ -8,7 +8,7 @@
     - name : Yanheng He
       url : "https://henryhe0123.github.io"
       pic: "/images/members/yanheng_he.jpg"
-      description: PhD (incoming)
+      description: PhD
       bio : 
     - name : Yuzhen Huang
       github: 
@@ -43,7 +43,7 @@
     - name: Haoze Wu
       url: "https://waithz.github.io"
       pic: "/images/members/haoze_wu.jpg"
-      description: MPhil (incoming)
+      description: MPhil
     - name : Weihao Zeng
       url : "https://github.com/Zeng-WH"
       pic: "/images/members/weihao_zeng.jpg"
@@ -56,7 +56,7 @@
     - name: Wenshuo Zhao
       url: "https://edric-zhao.github.io"
       pic: "/images/members/wenshuo_zhao.jpg"
-      description: PhD (incoming)
+      description: PhD
       bio: 
     - name : Liangjun Zhong
       github: 
